@@ -6,6 +6,20 @@ Hi there, I'm <a href="https://github.com/farisazizy/" target="_blank" rel="nore
 I'm a UI/UX Designer 🎨!
 </h2> 
 
+## 🔭 I'm currently working on
+
+- User Research and UI Design at kerjago.com
+- Pendulum Android Music App (flutter)
+- My own portfolio website
+- Alterra Academy: Independent Study
+
+## 🌱 I'm currently learning
+
+- 📱 UI/UX
+- Flutter
+- Swift
+
+
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/farisazizy/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
