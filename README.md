@@ -19,7 +19,6 @@ I'm a UI/UX Designer 🎨!
 - Flutter
 - Swift
 
-<p align=”center”>
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/farisazizy/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
@@ -27,7 +26,6 @@ I'm a UI/UX Designer 🎨!
 <a href="https://farisazizy.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
 </br>
 
-</p>
                                                                                                                                          
 <p align=”center”>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farisazizy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
