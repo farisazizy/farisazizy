@@ -27,8 +27,9 @@ I'm a UI/UX Designer 🎨!
 <a href="https://farisazizy.medium.com/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
 </br>
 
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=farisazizy&show_icons=true&theme=radical" />|<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farisazizy&theme=radical&layout=compact" />
+<div style="display: float; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=farisazizy&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farisazizy&theme=radical&layout=compact" />
 </div>
 
 
