@@ -1,9 +1,10 @@
-<h2 align=”center”>
-  Hi there, I'm Faris Azizy 👋 
-</h2>
-<h1 align="center">
-  I'm a UI/UX Designer 💎 
-</h1>
+<h3 align="center">
+Hi there, I'm <a href="https://github.com/farisazizy/" target="_blank" rel="noreferrer">Faris Azizy</a> 👋
+</h3>
+
+<h2 align="center">
+I'm a UI/UX Designer 🎨!
+</h2> 
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farisazizy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
