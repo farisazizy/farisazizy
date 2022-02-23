@@ -33,7 +33,6 @@ I'm a UI/UX Designer 🎨!
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=farisazizy&show_icons=true&theme=radical" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farisazizy&theme=radical&layout=compact" />
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farisazizy&show_icons=true&theme=radical)
 
 
 <!--
