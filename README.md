@@ -28,8 +28,7 @@ I'm a UI/UX Designer 🎨!
 </br>
 
 <div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=farisazizy&show_icons=true&theme=radical" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farisazizy&theme=radical&layout=compact" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=farisazizy&show_icons=true&theme=radical" />|<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farisazizy&theme=radical&layout=compact" />
 </div>
 
 
