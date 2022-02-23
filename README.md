@@ -1,12 +1,12 @@
-<h3 align=”center”>
+<h2 align=”center”>
   Hi there, I'm Faris Azizy 👋 
-</h3>
+</h2>
 <h1 align="center">
   I'm a UI/UX Designer 💎 
 </h1>
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=farisazizy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" align="center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=farisazizy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!--
 **farisazizy/farisazizy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
