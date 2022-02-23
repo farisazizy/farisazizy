@@ -1,7 +1,7 @@
 ### Hi there, I'm Faris Azizy 👋
 <h3 align=”center”>
   
-# UI/UX Designer 💎
+# I'm a UI/UX Designer 💎
 <h1 align="center">
 
 
