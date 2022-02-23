@@ -19,12 +19,19 @@ I'm a UI/UX Designer 🎨!
 - Flutter
 - Swift
 
-### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/farisazizy/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/farisazizy"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://farisazizy.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+<h2 align="center">
+🤝 Connect with me:
+</h2> 
+
+<a href="https://www.linkedin.com/in/farisazizy/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/farisazizy"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://farisazizy.medium.com/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
 </br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farisazizy&repo=github-readme-stats" />
+</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farisazizy&show_icons=true&theme=radical)
 
