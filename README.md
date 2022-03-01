@@ -16,6 +16,7 @@ I'm a UI/UX Designer 🎨!
 ## 🌱 I'm currently learning
 
 - 📱 UI/UX
+- Tailwind CSS
 - Flutter
 - Swift
 
