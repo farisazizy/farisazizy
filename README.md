@@ -8,7 +8,7 @@ I'm a UI/UX Designer 🎨!
 
 ## 🔭 I'm currently working on
 
-- User Research, UX Design, UX Writing, and UI Design at kerjago.com
+- Full-stack Designer at kerjago.com
 - Pendulum Android Music App (flutter)
 - My own portfolio website
 - Alterra Academy: Independent Study
