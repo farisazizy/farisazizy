@@ -9,14 +9,14 @@ I'm a UI/UX Designer 🎨!
 ## 🔭 I'm currently working on
 
 - Full-stack Designer at kerjago.com
+- TravelMate Flutter App
 - Pendulum Android Music App (flutter)
 - My own portfolio website
 - Alterra Academy: Independent Study
 
 ## 🌱 I'm currently learning
 
-- 📱 UI/UX
-- Tailwind CSS
+- 📱 UI/UX: Design Thinking
 - Flutter
 - Swift
 
