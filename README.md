@@ -3,22 +3,19 @@ Hi there, I'm <a href="https://github.com/farisazizy/" target="_blank" rel="nore
 </h3>
 
 <h2 align="center">
-I'm a UI/UX Designer 🎨!
+UX and Data Enthusiast!
 </h2> 
 
 ## 🔭 I'm currently working on
 
-- Full-stack Designer at kerjago.com
-- TravelMate Flutter App
-- Pendulum Android Music App (flutter)
-- My own portfolio website
-- Alterra Academy: Independent Study
+- Full-stack Designer at kerjago.id
+- Reseaarch on Optimizing CNN with meta-heuristic algorithm on Medical-Image Brain Tumors for ICoICT 2023: The 11th International Conference on Information and Communication Technology
+- Final Semester at Telkom University
 
 ## 🌱 I'm currently learning
 
-- 📱 UI/UX: Design Thinking
+- Data Analyst
 - Flutter
-- Swift
 
 
 ## 🤝 Connect with me:
