@@ -17,6 +17,8 @@ UX and Data Enthusiast!
 - Data Analyst
 - Flutter
 
+*i do a lot of work on colab and figma
+
 
 ## 🤝 Connect with me:
 
