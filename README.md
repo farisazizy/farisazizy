@@ -9,8 +9,7 @@ UX and Data Enthusiast!
 ## 🔭 I'm currently working on
 
 - Full-stack Designer at kerjago.id
-- Reseaarch on Optimizing CNN with meta-heuristic algorithm on Medical-Image Brain Tumors for ICoICT 2023: The 11th International Conference on Information and Communication Technology
-- Final Semester at Telkom University
+- Research on Optimizing CNN with meta-heuristic algorithm on Medical-Image Brain Tumors for ICoICT 2023: The 11th International Conference on Information and Communication Technology
 
 ## 🌱 I'm currently learning
 
