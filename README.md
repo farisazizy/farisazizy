@@ -14,7 +14,8 @@ UX and Data Enthusiast!
 ## 🌱 I'm currently learning
 
 - Data Analyst, Generasi GIGIH 3.0
-- Flutter
+- Google Looker Studio
+- Advanced SQL
 
 *i do a lot of work on colab and figma
 
