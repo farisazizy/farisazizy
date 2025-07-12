@@ -2,21 +2,6 @@
 Hi there, I'm <a href="https://github.com/farisazizy/" target="_blank" rel="noreferrer">Faris Azizy</a> 👋
 </h3>
 
-<h2 align="center">
-UX and Data Enthusiast!
-</h2> 
-
-## 🔭 I'm currently working on
-
-- Full-stack Designer at kerjago.id
-- Research on Optimizing CNN with meta-heuristic algorithm on Medical-Image Brain Tumors for ICoICT 2023: The 11th International Conference on Information and Communication Technology
-
-## 🌱 I'm currently learning
-
-- Data Analyst, Generasi GIGIH 3.0
-- Google Looker Studio
-- Advanced SQL
-
 *i do a lot of work on colab and figma
 
 
@@ -26,16 +11,6 @@ UX and Data Enthusiast!
 <a href="https://instagram.com/farisazizy"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 <a href="https://farisazizy.medium.com/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
 </br>
-
-<table>
-    <tr>
-        <td>
-            <img class="img" src="https://github-readme-stats.vercel.app/api?username=farisazizy&show_icons=true&theme=radical" />
-        </td>
-        <td>
-            <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farisazizy&theme=radical&layout=compact" />
-        </td>
-    </tr>
 
 
 <!--
