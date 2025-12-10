@@ -1,8 +1,5 @@
-<h3 align="center">
-Hi there, I'm <a href="https://github.com/farisazizy/" target="_blank" rel="noreferrer">Faris Azizy</a> 👋
-</h3>
-
 *i do a lot of work on colab and figma
+*personal account, mostly working with company account :)
 
 
 ## 🤝 Connect with me:
